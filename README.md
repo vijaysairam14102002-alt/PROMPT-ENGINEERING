@@ -67,9 +67,10 @@ ________________________________________
 
 **Title:** Fundamentals of Generative AI and Large Language Models (LLMs)
 
-**Author:** LOKESH KUMAR P
+**Author:** VIJAY SAIRAM
 
-**Reg no:** 212222083004 
+**Reg no:** 212222083010
+
 
 ---
 
